@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sharehousehub": {
+      "type": "http",
+      "url": "https://mcp.sharehousehub.com.au/mcp"
+    }
+  }
+}

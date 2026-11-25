@@ -1,0 +1,24 @@
+{
+  "name": "sharehousehub",
+  "version": "3.1.0",
+  "description": "SharehouseHub for Claude. Free with no sign-in: find sharehouse rooms in Australia, check an ad for scam signals, official tenancy rules with sources, inspection checklists and cost splits. With a SharehouseHub Pro membership: saved searches, messaging, host listing tools and Sharehouse Manager (houses, housemates, rent, bills, chores and applicants).",
+  "author": {
+    "name": "SharehouseHub",
+    "url": "https://sharehousehub.com.au"
+  },
+  "homepage": "https://sharehousehub.com.au",
+  "keywords": [
+    "sharehouse",
+    "flatshare",
+    "roommate",
+    "housemate",
+    "rent-ledger",
+    "tenancy",
+    "scam-check",
+    "bill-split",
+    "sharehouse-manager"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "license": "MIT"
+}

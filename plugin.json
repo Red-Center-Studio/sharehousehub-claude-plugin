@@ -1,0 +1,18 @@
+{
+  "name": "sharehousehub",
+  "displayName": "SharehouseHub",
+  "version": "3.1.0",
+  "description": "SharehouseHub for Claude. Free with no sign-in: find sharehouse rooms in Australia, check an ad for scam signals, official tenancy rules with sources, inspection checklists and cost splits. With a SharehouseHub Pro membership: saved searches, messaging, host listing tools and Sharehouse Manager (houses, housemates, rent, bills, chores and applicants).",
+  "logo": "assets/logo.svg",
+  "author": {
+    "name": "SharehouseHub",
+    "url": "https://sharehousehub.com.au"
+  },
+  "homepage": "https://sharehousehub.com.au",
+  "suggestedPrompts": [
+    "Check this room ad for scam signs before I reply",
+    "What are the bond and notice rules for a share house room in Victoria?",
+    "Give me an inspection checklist and questions to ask for a sharehouse viewing"
+  ],
+  "license": "MIT"
+}
