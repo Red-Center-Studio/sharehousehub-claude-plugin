@@ -1,5 +1,7 @@
 # SharehouseHub for Claude
 
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/red-center-studio/sharehousehub-claude-plugin)
+
 A plugin that connects Claude to SharehouseHub's remote MCP connector, so you can find share house rooms in Australia, check a room ad for scam signals, get tenancy rules with sources, plan inspections and split costs. SharehouseHub members can also manage a house: housemates, rent, bills, chores, repairs and applicants.
 
 - Connector (remote MCP, streamable HTTP): `https://mcp.sharehousehub.com.au/mcp`
